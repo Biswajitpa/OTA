@@ -84,10 +84,7 @@ Future firmware updates are uploaded wirelessly through Arduino IDE without reco
 # 🔥 Core Functionalities
 
 ## WiFi Connection
-ESP32 connects to the local wireless network.
-
-``cpp
-WiFi.begin(ssid, password);
+- ESP32 connects to the local wireless network.
 
 ## Custom OTA Hostname
 - Each ESP32 can have a unique device identity.
@@ -110,7 +107,7 @@ WiFi.begin(ssid, password);
 ## Upload Firmware
 - Click Upload and the firmware transfers wirelessly over WiFi.
   
-##🧠 Skills Demonstrated
+## 🧠Skills Demonstrated
 - Embedded Systems
 - ESP32 Programming
 - Firmware Development
