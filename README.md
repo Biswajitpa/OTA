@@ -128,15 +128,15 @@ Future firmware updates are uploaded wirelessly through Arduino IDE without reco
 - Wireless Data Transfer
   
 ## 🌍 Real-World Applications
-✅ Smart Home Automation
-✅ Industrial IoT Systems
-✅ Wireless Sensor Networks
-✅ Remote Device Management
-✅ Smart Agriculture Systems
-✅ Embedded Product Maintenance
-✅ Firmware Deployment Systems
-✅ Edge AI Devices
-✅ Wireless Embedded Products
+- Smart Home Automation
+- Industrial IoT Systems
+- Wireless Sensor Networks
+-  Remote Device Management
+- Smart Agriculture Systems
+- Embedded Product Maintenance
+- Firmware Deployment Systems
+- Edge AI Devices
+- Wireless Embedded Products
 
 ## 💡 Why This Project is Important
 This project demonstrates industry-level concepts in Embedded Systems and IoT including wireless firmware deployment, remote device management, WiFi communication, OTA networking, and real-time firmware updating. These technologies are widely used in modern connected devices, smart systems, industrial automation, and cloud-connected embedded products. The project highlights practical implementation of remote firmware maintenance and scalable IoT device management used by professional firmware engineers and embedded developers.
@@ -150,11 +150,11 @@ This project demonstrates industry-level concepts in Embedded Systems and IoT in
 - Multi-ESP32 Device Monitoring
 - Remote Device Logging
 - OTA Rollback Feature
-##👨‍💻 Author
+## 👨‍💻Author
 - Biswajit Pattanaik
 - Embedded Systems | IoT | ESP32 | Firmware Development | Edge AI
 - Passionate about building intelligent connected systems using Embedded Electronics, Wireless Communication, IoT, AI, and Smart Automation Technologies.
 
-##⭐ Support
-If you like this project, give this repository a Star ⭐ and support the development of more Embedded Systems and IoT projects.
+## ⭐Support
+_ If you like this project, give this repository a Star ⭐ and support the development of more Embedded Systems and IoT projects.
 
