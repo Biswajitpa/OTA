@@ -102,8 +102,10 @@ Future firmware updates are uploaded wirelessly through Arduino IDE without reco
 <img width="206" height="128" alt="image" src="https://github.com/user-attachments/assets/9e926488-3106-4848-8894-b8d5d7e08965" />
 
 ## 🚀 Arduino IDE OTA Upload Process
+
 <img width="261" height="125" alt="image" src="https://github.com/user-attachments/assets/274d6c12-86c8-491e-a59c-496ae5ee840f" />
 <img width="237" height="110" alt="image" src="https://github.com/user-attachments/assets/9b5d68d8-633d-4210-a1ad-3ab2eaf2f926" />
+
 ## Upload Firmware
 - Click Upload and the firmware transfers wirelessly over WiFi.
   
