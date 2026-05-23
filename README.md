@@ -1,4 +1,4 @@
-# 🚀 ESP32 Wireless OTA Update System using WiFi
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=250&section=header&text=ESP32%20Wireless%20OTA%20Update%20System&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Embedded%20Systems%20|%20IoT%20|%20Wireless%20Firmware%20Deployment&descAlignY=60&descSize=18"/>
 </p>
